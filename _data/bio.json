@@ -81,66 +81,51 @@
       "company": "University of Hawai‘i at Mānoa, College of Education",
       "position": "Computer Support",
       "website": "",
-      "startDate": "2019-0-01",
+      "startDate": "2019-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Primary duties include troubleshooting solutions and providing technological support for faculty and students of the College of Education",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain computers and equipment as well as manage inventory,
+        "Provide in-person and online tech support"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawai‘i at Mānoa Center on the Family",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-05-15",
+      "summary": "Primary duties included data entry and data basing in addition to clerical work and general office duties.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Phi Beta Kappa Member",
+      "date": "2018-Present",
+      "awarder": "Phi Beta Kappa",
+      "summary": "Current member of the prestigious national honor society, Phi Beta Kappa, in recognition of academic achievement."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Undergraduate Research Opportunities Program Funding Recipient",
+      "date": "2016",
+      "awarder": "University of Hawaii Undergraduate Research Opportunities",
+      "summary": "Granted stipend funding by the University of Hawaii at Mānoa Undergraduate Research Opportunities Program to perform undergraduate research."
+    },
+    {
+      "title": "ASUH Mānoa Research Award Recipient",
+      "date": "2016",
+      "awarder": "University of Hawaii ASUH",
+      "summary": "Granted the Associated Students of the University of Hawaii at Mānoa Research Award to attend 2017 Society for Integrative and Comparative Biology Annual Conference to present research findings."
+    },
+    {
+      "title": "University of Hawaii at Mānoa Department of Microbiology Merit Scholarship",
+      "date": "2016",
+      "awarder": "University of Hawaii",
+      "summary": "Recipient of scholarship recognizing top student academic performance within the University of Hawaii at Mānoa Department of Microbiology."
     }
   ],
   "references": [
