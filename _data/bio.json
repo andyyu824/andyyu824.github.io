@@ -140,52 +140,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "Java",
-        "Javascript",
-        "Meteor"
+        "Python",
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Unix",
-        "Git/GitHub",
-        "g++",
-        "Emacs"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "name": "English",
-      "level": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Climate Change",
-      "keywords": []
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": [
-        "software metrics",
-        "full stack application development"
-      ]
-    },
-    {
-      "name": "Serious Games",
-      "keywords": []
-    },
-    {
-      "name": "Renewable Energy",
-      "keywords": [
-        "power quality",
-        "energy analytics"
+        "Ubuntu"
       ]
     }
   ],
