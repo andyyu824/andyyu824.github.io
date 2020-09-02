@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/hangman.png
 title: Console Hangman
 permalink:
