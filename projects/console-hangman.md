@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/hangman.png
 title: Console Hangman
 permalink:
 # All dates must be YYYY-MM-DD format!
