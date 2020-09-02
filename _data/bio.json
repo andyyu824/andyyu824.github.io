@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://andyyu824.github.io/images/andyyu.jpg",
     "email": "andyyu@hawaii.edu",
-    "phone": "8",
+    "phone": "",
     "website": "https://andyyu824.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
@@ -17,128 +17,60 @@
     "profiles": [
       {
         "network": "github",
-        "username": "philipmjohnson",
-        "url": "http://github.com/philipmjohnson"
+        "username": "andyyu824",
+        "url": "http://github.com/andyyu824"
       },
       {
         "network": "linkedin",
-        "username": "philipmjohnson",
-        "url": "http://linkedin.com/in/philipmjohnson"
+        "username": "andyyu",
+        "url": "http://linkedin.com/in/andy-yu-3406911b2/"
       }
     ]
   },
   "work": [
     {
-      "company": "University of Hawaii",
-      "position": "Professor",
-      "website": "http://www.ics.hawaii.edu/",
-      "startDate": "1990-08-01",
+      "company": "University of Hawai‘i at Mānoa, College of Education",
+      "position": "Computer Support",
+      "website": "",
+      "startDate": "2019-06-01",
       "endDate": "Present",
-      "summary": "Department of Information and Computer Sciences",
+      "summary": "Primary duties include troubleshooting solutions and providing technological support for faculty and students of the College of Education",
       "highlights": [
-        "Professor, 2001-present",
-        "Associate Chair, 2010-2016",
-        "Director, Collaborative Software Development Laboratory, 1990-present",
-        "Associate Professor, 1995-2001",
-        "Assistant Professor, 1990-1995"
+        "Maintain computers and equipment as well as manage inventory",
+        "Provide in-person and online tech support"
       ]
     },
     {
-      "company": "Open Power Quality",
-      "position": "CEO",
-      "website": "https://openpowerquality.com/",
-      "startDate": "2013-01-01",
-      "endDate": "2019-06-01",
-      "summary": "Co-founder and leader of technical development",
-      "highlights": []
-    },
-    {
-      "company": "Blekinge Institute of Technology",
-      "position": "Visiting Professor",
-      "website": "https://www.bth.se/eng/",
-      "startDate": "2006-08-01",
-      "summary": "School of Engineering",
-      "highlights": []
-    },
-    {
-      "company": "University of Queensland",
-      "position": "Senior Research Fellow",
-      "startDate": "1997-05-01",
-      "summary": "Distributed Systems Technology Centre",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "Editorial Boards",
-      "summary": "",
+      "company": "University of Hawai‘i at Mānoa Center on the Family",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-05-15",
+      "summary": "Primary duties included data entry and data basing in addition to clerical work and general office duties.",
       "highlights": [
-        "Journal of Empirical Software Engineering, 2004-2008",
-        "IEEE Transactions on Software Engineering, 2000-2004",
-        "International Journal of Computer Supported Cooperative Work, 1997-2004"
-      ]
-    },
-    {
-      "organization": "",
-      "position": "Industrial Boards",
-      "summary": "",
-      "highlights": [
-        "Member, Technical Advisory Board, Sixth Sense Analytics, 2006-2009",
-        "Member, Board of Directors, Hawaii Strategic Development Corporation, 2006-2009",
-        "Member, Board of Directors, LavaNet, Inc., 2002-2005",
-        "Member, Board of Directors, High Technology Development Corporation, 2000-2004"
-      ]
-    },
-    {
-      "organization": "",
-      "position": "Program Chair/Co-Chair",
-      "summary": "",
-      "highlights": [
-        "International Workshop on In-Process Software Engineering Measurement and Analysis, 2007",
-        "International Workshop on Software Engineering for High Performance Computing System Applications, 2004, 2005",
-        "International Software Engineering Research Network Annual Meeting, 2000",
-        "Software Architectures for Cooperative Systems Workshop, ACM Conference on Computer Supported Cooperative Work, 1994",
-        "CSCW Tools and Technologies Workshop, European Conference on Computer Supported Cooperative Work, 1993",
-        "CSCW Tools and Technologies Workshop, ACM Conference on Computer Supported Cooperative Work, 1992"
-      ]
-    },
-    {
-      "organization": "International Software Engineering Research Network (ISERN)",
-      "position": "Member",
-      "website": "http://isern.iese.de/Portal/",
-      "startDate": "1996-05-01",
-      "endDate": "2010-06-01",
-      "summary": "",
-      "highlights": [
-        "Collaborated on software metrics and software development behavioral research."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "endDate": "1990-08-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "endDate": "1985-06-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "University of Michigan, Ann Arbor, MI",
-      "area": "Biology, Computer Science",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "endDate": "1980-05-01",
-      "gpa": "",
-      "courses": []
+      "startDate": "2019-08-24",
+      "endDate": "2023-05",
+      "gpa": "3.94",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Molecular and Cell Biology",
+      "studyType": "B.S.",
+      "startDate": "2014-08-24",
+      "endDate": "2018-05",
+      "gpa": "3.94",
+      "courses": [
+      ]
     }
   ],
   "publications": [
@@ -262,111 +194,47 @@
   ],
   "awards": [
     {
-      "type": "award",
-      "title": "Board of Regents Medal for Excellence in Teaching",
-      "date": "June, 2019",
+      "title": "Phi Beta Kappa Member",
+      "date": "2018-Present",
+      "awarder": "Phi Beta Kappa",
+      "summary": "Current member of the prestigious national honor society, Phi Beta Kappa, in recognition of academic achievement."
+    },
+    {
+      "title": "Undergraduate Research Opportunities Program Funding Recipient",
+      "date": "2016",
+      "awarder": "University of Hawaii Undergraduate Research Opportunities",
+      "summary": "Granted stipend funding by the University of Hawaii at Mānoa Undergraduate Research Opportunities Program to perform undergraduate research."
+    },
+    {
+      "title": "ASUH Mānoa Research Award Recipient",
+      "date": "2016",
+      "awarder": "University of Hawaii ASUH",
+      "summary": "Granted the Associated Students of the University of Hawaii at Mānoa Research Award to attend 2017 Society for Integrative and Comparative Biology Annual Conference to present research findings."
+    },
+    {
+      "title": "University of Hawaii at Mānoa Department of Microbiology Merit Scholarship",
+      "date": "2016",
       "awarder": "University of Hawaii",
-      "summary": ""
-    },
-    {
-      "type": "grant",
-      "title": "Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",
-      "date": "",
-      "awarder": "National Science Foundation",
-      "summary": "P. Johnson, Principal Investigator; Peter Leong, Seungoh Paek, Carleton Moore, Co-Principal Investigators $331,208. 2018"
-    },
-    {
-      "type": "grant",
-      "title": "President's Green Project Implementation Award",
-      "date": "",
-      "awarder": "University of Hawaii",
-      "summary": "P. Johnson, Principal Investigator. $10,000. 2018"
-    },
-    {
-      "type": "grant",
-      "title": "Human centered information integration for the smart grid",
-      "date": "",
-      "awarder": "National Science Foundation",
-      "summary": "P. Johnson, Principal Investigator. $413,467. 2010-2014"
-    },
-    {
-      "type": "grant",
-      "title": "Supporting next generation energy education with the Kukui Cup",
-      "date": "",
-      "awarder": "HEI Charitable Foundation",
-      "summary": "P. Johnson, Principal Investigator. $10,777. 2012"
-    },
-    {
-      "type": "grant",
-      "title": "Sponsorship of the 2011 Kukui Cup",
-      "date": "",
-      "awarder": "Hawaii State Department of Business, Economic Development, and Tourism",
-      "summary": "P. Johnson, Principal Investigator. $5,000. 2012"
-    },
-    {
-      "type": "grant",
-      "title": "Renewable energy and island sustainability",
-      "date": "",
-      "awarder": "University of Hawaii",
-      "summary": "Principal Investigator: T. Kuh; Co-Principal Investigators: O. Boric-Lubecke, B. Chao, M. Coffman, D. Garmire, M.Nejhad, R. Ghorbani, P. Johnson, A. Kavcic, D. Konan, B. Liaw, E. Miller, W. Qu, M. Teng, X. Zhou. $1,000,000. 2009-2011"
-    },
-    {
-      "type": "grant",
-      "title": "Google Summer of Code: Hackystat",
-      "date": "",
-      "awarder": "Google, Inc.",
-      "summary": "P. Johnson, Principal Investigator. $45,000. 2008-2009"
+      "summary": "Recipient of scholarship recognizing top student academic performance within the University of Hawaii at Mānoa Department of Microbiology."
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "Java",
-        "Javascript",
-        "Meteor"
+        "Python",
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Unix",
-        "Git/GitHub",
-        "g++",
-        "Emacs"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "name": "English",
-      "level": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Climate Change",
-      "keywords": []
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": [
-        "software metrics",
-        "full stack application development"
-      ]
-    },
-    {
-      "name": "Serious Games",
-      "keywords": []
-    },
-    {
-      "name": "Renewable Energy",
-      "keywords": [
-        "power quality",
-        "energy analytics"
+        "Ubuntu"
       ]
     }
   ],
