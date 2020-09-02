@@ -159,6 +159,36 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Climate Change",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "software metrics",
+        "full stack application development"
+      ]
+    },
+    {
+      "name": "Serious Games",
+      "keywords": []
+    },
+    {
+      "name": "Renewable Energy",
+      "keywords": [
+        "power quality",
+        "energy analytics"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
