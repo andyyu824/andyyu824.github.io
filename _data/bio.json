@@ -140,20 +140,22 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Proficient",
+      "level": "",
       "keywords": [
         "Java",
-        "Python",
-        "SQL"
+        "Javascript",
+        "Meteor"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
         "MacOS",
-        "Ubuntu"
+        "Unix",
+        "Git/GitHub",
+        "g++",
+        "Emacs"
       ]
     }
   ],
