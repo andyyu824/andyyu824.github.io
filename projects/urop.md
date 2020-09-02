@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: 
 title: UROP: Does the lobster heart possess an intrinsic circadian clock?
 permalink:
