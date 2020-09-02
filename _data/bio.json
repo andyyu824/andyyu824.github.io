@@ -75,120 +75,39 @@
   ],
   "publications": [
     {
-      "name": "Design, Implementation, and Evaluation of Open Power Quality",
+      "name": "Molecular evidence for an intrinsic circadian pacemaker in the cardiac ganglion of the American lobster, Homarus americanus - Is diel cycling of heartbeat frequency controlled by a peripheral clock system?",
       "type": "journal",
-      "author": "Anthony J. Christe, Sergey Negrashov, and Philip M. Johnson",
-      "publisher": "Energies 13(15)",
-      "releaseDate": "August, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-07/20-07.pdf",
-      "summary": ""
-    },
-    {
-      "name": "RadGrad: Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity",
-      "type": "conference",
-      "author": "Philip M. Johnson, Carleton A. Moore, Peter Leong, Seungoh Paek",
-      "publisher": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020)",
-      "releaseDate": "March, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-04/19-04.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Design and evaluation of an athletic approach to software engineering education",
-      "type": "journal",
-      "author": "Philip M. Johnson",
-      "publisher": "ACM Transactions on Computing Education",
-      "releaseDate": "August, 2019",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-03/19-03.pdf",
-      "summary": ""
-    },
-    {
-      "name": "A transient classification system implementation on an open source distributed power quality network",
-      "type": "conference",
-      "author": "Charles Dickens, Anthony J. Christe, and Philip M. Johnson",
-      "publisher": "Proceedings of the Ninth International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies",
-      "releaseDate": "June, 2019",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-02/19-02.pdf",
-      "summary": ""
-    },
-    {
-      "name": "OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization",
-      "type": "conference",
-      "author": "A. Christe, S. Negrashov, P. Johnson, D. Nakahodo, D. Badke, and D. Aghalarpour",
-      "publisher": "Proceedings of the Seventh Annual IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems",
-      "releaseDate": "July, 2017",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2017/17-03/17-03.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Design and evaluation of the Makahiki open source serious game framework for sustainability education",
-      "type": "bookchapter",
-      "author": "Y. Xu, P.  Johnson, G. Lee, C. Moore, and R. Brewer",
-      "publisher": "In: Sustainability, Green IT and Education Strategies in the 21st Century",
-      "releaseDate": "September, 2016",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-03/16-03.pdf",
-      "summary": ""
-    },
-    {
-      "name": "OpenPowerQuality: An Open Source Framework for Power Quality Collection, Analysis, Visualization, and Privacy",
-      "type": "conference",
-      "author": "A. Christe, S. Negrashov, P. Johnson",
-      "publisher": "Proceedings of the Seventh Conference on Innovative Smart Grid Technologies",
-      "releaseDate": "September, 2016",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-02/16-02.pdf",
-      "summary": ""
-    },
-    {
-      "name": "An athletic approach to software engineering education",
-      "type": "conference",
-      "author": "P.Johnson, D.Port, E.Hill",
-      "publisher": "Proceedings of the 29th IEEE Conference on Software Engineering Education and Training",
-      "releaseDate": "April, 2016",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-01/16-01.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Is an athletic approach the future of software engineering?",
-      "type": "journal",
-      "author": "E. Hill, P. Johnson, D. Port",
-      "publisher": "IEEE Software",
-      "releaseDate": "January, 2016",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2015/15-03/15-03.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Three principals for the design of energy feedback visualizations",
-      "author": "R.Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
-      "type": "journal",
-      "publisher": "International Journal on Advances in Intelligent Systems",
-      "releaseDate": "December, 2013",
+      "author": "Christie AE, Yu A, Roncalli V, Pascual MG, Cieslak MC, Warner AN, Lameyer TJ, Stanhope ME, Dickinson PS, Joe Hull J",
+      "publisher": "Marine Genomics",
+      "releaseDate": "2018",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Searching under the streetlight for useful software analytics",
-      "author": "P. Johnson",
+      "name": "Circadian signaling in Homarus americanus: Region-specific de novo assembled transcriptomes show that both the brain and eyestalk ganglia possess the molecular components of a putative clock system",
       "type": "journal",
-      "publisher": "IEEE Software",
-      "releaseDate": "Volume 30, No. 4, July, 2013",
+      "author": "Christie AE, Yu A, Pascual MG, Roncalli V, Cieslak MC, Warner AN, Lameyer TJ, Stanhope ME, Dickinson PS, Joe Hull J",
+      "publisher": "Marine Genomics",
+      "releaseDate": "2018",
       "website": "",
       "summary": ""
     },
     {
-      "name": "SGSEAM: Assessing serious game frameworks from a stakeholder experience perspective",
-      "author": "Y. Xu, P. Johnson, C. Moore, R. Brewer, J. Takayama",
-      "type": "conference",
-      "publisher": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
-      "releaseDate": "Stratford, Ontario, Canada, October 2013",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2013/13-03/13-03.pdf",
+      "name": "Peptidergic signaling in the tadpole shrimp Triops newberryi: A potential model for investigating the roles played by peptide paracrines/hormones in adaptation to environmental change",
+      "type": "journal",
+      "author": "Christie AE, Pascual MG, Yu A",
+      "publisher": "Marine Genomics",
+      "releaseDate": "2018",
+      "website": "",
       "summary": ""
     },
     {
-      "name": "Makahiki+WattDepot: An open source software stack for next generation energy research and education",
-      "author": "P. Johnson, Y. Xu, R. Brewer, C. Moore, G. Lee, A. Connell",
-      "type": "conference",
-      "publisher": "Proceedings of the 2013 Conference on Information and Communication Technologies for Sustainability",
-      "releaseDate": "Zurich, Switzerland, February 2013",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2012/12-06/12-06.pdf",
+      "name": "Prediction of a neuropeptidome for the eyestalk ganglia of the lobster Homarus americanus using a tissue-specific de novo assembled transcriptome",
+      "type": "journal",
+      "author": "Christie AE, Roncalli V, Cieslak MC, Pascual MG, Yu A, Lameyer TJ, Stanhope ME, Dickinson PS",
+      "publisher": "General and Comparative Endocrinology",
+      "releaseDate": "2017",
+      "website": "",
       "summary": ""
     }
   ],
