@@ -13,8 +13,8 @@ summary: My first ever project in Python was a simple text hangman game.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/hangman-blanks.png">
-  <img class="ui image" src="../images/hangman-enumeration.jpg">
+  <img class="ui image" src="../images/hangman-blanks.PNG">
+  <img class="ui image" src="../images/hangman-enumeration.PNG">
 </div>
 
 Python was the second programming I learned and prior to working with it, I was still very uncomfortable with coding let alone starting a personal project. I had two semesters of Java for experience, but I still struggled with the basic concepts or even how to start a new project in an IDE. Python was a change of pace and gave me the opportunity to learn a new language, IDE, and nuances from the groud up. Though the syntax was simple to learn, I had to study many resources to learn how to navigate IDLE, PyCharm, the command line and other developer tools. After many tutorials and coding challenges, I undertook hangman as my first project and made it my goal to add as many features as I could with what knowledge I had at the time.
