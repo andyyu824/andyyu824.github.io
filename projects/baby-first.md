@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: image/note.png
 title: Baby's First Steps
 permalink:
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: My first ever group computer science project.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/soundboard.png">
   <img class="ui image" src="../images/soundboard-play.png">
 </div>
