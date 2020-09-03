@@ -13,8 +13,8 @@ summary: My first ever group computer science project.
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/soundboard.png">
-  <img class="ui image" src="../images/soundboard-play.png">
+  <img class="ui image" src="../images/soundboard.PNG">
+  <img class="ui image" src="../images/soundboard-play.PNG">
 </div>
 
 My first ever computer science project was the final project of ICS 111 – Introduction to Computer Science. This project required students to both compile the skillset accumulated throughout the semester as well as collaborate with group members. My group decided on creating a soundboard or drum machine. Our initial vision of the finished product was an ambitious GUI rivaling those that we found online, but numerous hiccups along the way resulted in us keeping the project very simple. Although it was disappointing, I learned a lot about working with others in software development. 
