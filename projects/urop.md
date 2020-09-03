@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: 
-title: UROP: Does the lobster heart possess an intrinsic circadian clock?
+title: "UROP: Does the lobster heart possess an intrinsic circadian clock?"
 permalink:
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-05
