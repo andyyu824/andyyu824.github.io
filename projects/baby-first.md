@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/note.png
+image: images/note.png
 title: Baby's First Steps
 permalink:
 # All dates must be YYYY-MM-DD format!
