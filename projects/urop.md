@@ -14,7 +14,7 @@ labels:
 summary: I presented my work with lobster transcriptomics at the UROP Spring Showcase.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/poster.PNG">
 </div>
 
