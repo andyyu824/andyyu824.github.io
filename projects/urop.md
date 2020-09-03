@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: 
+image: images/lobster.jpg
 title: "UROP: Does the lobster heart possess an intrinsic circadian clock?"
 permalink:
 # All dates must be YYYY-MM-DD format!
