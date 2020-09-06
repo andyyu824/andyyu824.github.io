@@ -27,6 +27,25 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
   "work": [
     {
       "company": "University of Hawai‘i at Mānoa, College of Education",
@@ -149,7 +168,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "Windows",
         "MacOS",
