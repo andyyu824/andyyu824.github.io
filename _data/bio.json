@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data analytics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Biology",
       "keywords": [
       ]
     }
