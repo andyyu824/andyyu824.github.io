@@ -25,4 +25,4 @@ GitHub Repository: <a href="https://github.com/athleticheck/athleticheck"><i cla
 
 Github IO: <a href="https://athleticheck.github.io/"><i class="large github icon "></i>athleticheck.github.io</a>
 
-Site: <a href="athleticheck.xyz/"></i>AtheltiCheck.xyz</a>
+Site: <a href="athleticheck.xyz/">AtheltiCheck.xyz</a>
