@@ -19,7 +19,7 @@ summary: Software engineering group final project.
   <img class="ui image" src="../images/soundboard-play.png">
 </div>
 
-My software engineering group final project, a web application for communication between athletes and athletic trainers.
+My software engineering group final project, a web application for communication between athletes and athletic trainers. One of the members on our development team is an athlete and they were dissatisfied with their current means of communication with athletic trainers. AtheltiCheck aims to be a simple and intuitive means for both athletes and trainers to share critical information such as appointment reports, athlete health clearance, and COVID clearance as well.
 
 GitHub Repository: <a href="https://github.com/athleticheck/athleticheck"><i class="large github icon "></i>andyyu824/AthletiCheck</a>
 
