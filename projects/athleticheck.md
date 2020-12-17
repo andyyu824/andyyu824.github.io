@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: /images/AthletiCheck-Images/logo.png
 title: AtheltiCheck
 permalink:
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,6 @@ summary: Software engineering group final project.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/AthletiCheck-Images/logo.png">
   <img class="ui image" src="../images/AthletiCheck-Images/landing-1.png">
   <img class="ui image" src="../images/AthletiCheck-Images/about-us.png">
   <img class="ui image" src="../images/AthletiCheck-Images/profilelist.PNG">
