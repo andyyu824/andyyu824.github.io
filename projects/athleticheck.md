@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/AthletiCheck-Images/logo.png
-title: AtheltiCheck
+title: AthletiCheck
 permalink:
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-17
