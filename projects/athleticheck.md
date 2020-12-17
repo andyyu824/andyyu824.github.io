@@ -14,7 +14,7 @@ labels:
 summary: Software engineering group final project.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/AthletiCheck-Images/landing-1.png">
   <img class="ui image" src="../images/AthletiCheck-Images/about-us.png">
   <img class="ui image" src="../images/AthletiCheck-Images/profilelist.PNG">
